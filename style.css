@@ -125,10 +125,10 @@ body {
     #add-button {
         font-size: 30px;
         transform: translateY(0%);
-        margin-left: 2%;
+        margin-left: 0%;
     }
 
     #task-input {
-        width: 90%;
+        width: 80%;
     }
 }
