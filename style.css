@@ -123,8 +123,8 @@ body {
     }
 
     #add-button {
-        font-size: 20px;
-        transform: translateY(15%);
+        font-size: 30px;
+        transform: translateY(30px);
     }
 
     #task-input {
