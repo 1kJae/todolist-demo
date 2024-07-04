@@ -124,13 +124,10 @@ body {
 
     #add-button {
         font-size: 30px;
-        margin-top: 10px; 
-        margin-left: 0; 
     }
 
     #task-input {
         width: 90%;
-        margin-right: 0; 
-        margin-bottom: 10px; 
+        margin-right: 30px; 
     }
 }
