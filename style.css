@@ -124,11 +124,11 @@ body {
 
     #add-button {
         font-size: 30px;
-        transform: translateY(0);
-        margin-left: 0;
+        transform: translateY(15%);
+        margin-left: 2%;
     }
 
     #task-input {
-        width: 100%;
+        width: 90%;
     }
 }
