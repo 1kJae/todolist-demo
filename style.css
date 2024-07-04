@@ -127,7 +127,6 @@ body {
     }
 
     #task-input {
-        width: 90%;
-        margin-right: 30px; 
+        width: 70%;
     }
 }
