@@ -115,7 +115,7 @@ body {
     transform: translate(2%);
 }
 
-@media (max-width: 400px) {
+@media (max-width: 200px) {
     .container {
         width: 90vw;
         padding: 20px;
@@ -123,7 +123,7 @@ body {
     }
 
     #add-button {
-        font-size: 20px;
+        font-size: 30px;
     }
 
     #task-input {
